@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0KjMlnTBxCPeSk3wrqFaS0",
+    "id" : "6py9udJjGxTkcU8iXGQEuY",
     "name" : "m_USET_CaTMDR_Promomats_PreLDG2LDG",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100CJ170000000000CD"
+        "repoHandle" : "0100CJ170000000000CN"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
